@@ -1,51 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-  <channel>
-    <atom:link href="https://feeds.simplecast.com/v9f6tcJf" rel="self" title="MP3 Audio" type="application/atom+xml"/>
-    <atom:link href="https://simplecast.superfeedr.com" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
-    <generator>https://simplecast.com</generator>
-    <title>Dxd-test</title>
-    <description>This a test</description>
-    <language>en</language>
-    <pubDate>Wed, 10 Sep 2025 22:54:16 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Sep 2025 22:54:26 +0000</lastBuildDate>
-    <image>
-      <link>https://dxd-test.simplecast.com</link>
-      <title>Dxd-test</title>
-      <url>https://image.simplecastcdn.com/images/ed5a6112-2d97-4147-9004-ddc7566bf0f2/5fd2a9f7-7bfc-4702-8b48-2b91849b4a78/3000x3000/share-pic-d9-a2-d9-a0-d9-a2-d9-a5-d9-a0-d9-a7-d9-a1-d9-a1-d9-a0-d9-a7-d9-a5-d9-a3-d9-a3-d9-a6.jpg?aid=rss_feed</url>
-    </image>
-    <link>https://dxd-test.simplecast.com</link>
-    <itunes:type>episodic</itunes:type>
-    <itunes:summary>This a test</itunes:summary>
-    <itunes:author>Dxd</itunes:author>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://image.simplecastcdn.com/images/ed5a6112-2d97-4147-9004-ddc7566bf0f2/5fd2a9f7-7bfc-4702-8b48-2b91849b4a78/3000x3000/share-pic-d9-a2-d9-a0-d9-a2-d9-a5-d9-a0-d9-a7-d9-a1-d9-a1-d9-a0-d9-a7-d9-a5-d9-a3-d9-a3-d9-a6.jpg?aid=rss_feed"/>
-    <itunes:new-feed-url>https://feeds.simplecast.com/v9f6tcJf</itunes:new-feed-url>
-    <itunes:keywords>test</itunes:keywords>
-    <itunes:owner>
-      <itunes:name>Dx</itunes:name>
-      <itunes:email>winiyak611@bitfami.com</itunes:email>
-    </itunes:owner>
-    <itunes:category text="Arts">
-      <itunes:category text="Books"/>
-    </itunes:category>
-    <item>
-      <guid isPermaLink="false">7cdf65f8-503e-4b09-be74-37a03742311f</guid>
-      <title>Tesla ton</title>
-      <description><![CDATA[Just testing  
-]]></description>
-      <pubDate>Wed, 10 Sep 2025 22:54:16 +0000</pubDate>
-      <author>gitad99489@certve.com (Dx)</author>
-      <link>https://dxd-test.simplecast.com/episodes/tesla-ton-vPCKwYbR</link>
-      <enclosure length="8389756" type="audio/mpeg" url="https://cdn.simplecast.com/audio/719198ca-8c05-46b2-902c-3d2b1349b470/episodes/ce7d49b6-2918-4f30-9f02-5f6659654d40/audio/a6bd28ec-d117-4e84-ac9e-515ac39b6383/default_tc.mp3?aid=rss_feed&amp;feed=v9f6tcJf"/>
-      <itunes:title>Tesla ton</itunes:title>
-      <itunes:author>Dx</itunes:author>
-      <itunes:duration>00:03:20</itunes:duration>
-      <itunes:summary>Just testing </itunes:summary>
-      <itunes:subtitle>Just testing </itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
-    </item>
-  </channel>
+<rss
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+	xmlns:anchor="https://anchor.fm/xmlns"
+	xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title>
+			<![CDATA[test in spotify]]>
+		</title>
+		<description>
+			<![CDATA[tesst]]>
+		</description>
+		<link>https://podcasters.spotify.com/pod/show/dx81</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Fri, 19 Sep 2025 00:21:54 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/10983e708/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author>
+			<![CDATA[dx]]>
+		</author>
+		<copyright>
+			<![CDATA[dx]]>
+		</copyright>
+		<language>
+			<![CDATA[ar]]>
+		</language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:block>Yes</itunes:block>
+		<itunes:author>dx</itunes:author>
+		<itunes:summary>tesst</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>dx</itunes:name>
+			<itunes:email>winiyak611@bitfami.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Arts"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44446066/5e55a57815365c00.jpg"/>
+		<item>
+			<title>
+				<![CDATA[xxx]]>
+			</title>
+			<link>https://podcasters.spotify.com/pod/show/dx46/episodes/xxx-e38ds17</link>
+			<guid isPermaLink="false">39b8356d-eee5-4cbb-b652-294289dda176</guid>
+			<dc:creator>
+				<![CDATA[dx]]>
+			</dc:creator>
+			<pubDate>Thu, 18 Sep 2025 22:49:21 GMT</pubDate>
+			<enclosure url="http://4inwuhibcxvxjgbds9w575nspjvaj47t.oastify.com/p.mp3" length="123" type="audio/mpeg"/>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:00:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/44446066/c5d95302d15af2ee.jpg"/>
+		</item>
+		<item>
+			<title>
+				<![CDATA[hh test]]>
+			</title>
+			<description>
+				<![CDATA[<p>hhhh</p> ]]>
+			</description>
+			<link>https://podcasters.spotify.com/pod/show/dx46/episodes/hh-test-e38ds16</link>
+			<guid isPermaLink="false">0113c122-97ff-43be-8a8c-21dc67854fc4</guid>
+			<dc:creator>
+				<![CDATA[dx]]>
+			</dc:creator>
+			<pubDate>Thu, 18 Sep 2025 22:22:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10983e708/podcast/play/108506598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2F407747176-44100-1-82a74047cdf8485e.mp3" length="30972" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;hhhh&lt;/p&gt; </itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:00:01</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/44446066/3efa24778c339fe4.jpg"/>
+		</item>
+	</channel>
 </rss>
