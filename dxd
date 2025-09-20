@@ -14,10 +14,10 @@
 		<description>
 			<![CDATA[tesst]]>
 		</description>
-		<link>https://podcasters.spotify.com/pod/show/dx81</link>
+		<link>https://k4pcgx4rydhd5wxtepiltl98bzhq5otd.oastify.com/channel</link>
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Fri, 19 Sep 2025 00:21:54 GMT</lastBuildDate>
-		<atom:link href="p4uhg24wyihi51xyeuiqtq9db4hv5sth.oastify.com/atomLink" rel="self" type="application/rss+xml"/>
+		<atom:link href="http://p4uhg24wyihi51xyeuiqtq9db4hv5sth.oastify.com/atomLink" rel="self" type="application/rss+xml"/>
 		<author>
 			<![CDATA[dx]]>
 		</author>
@@ -38,40 +38,21 @@
 		</itunes:owner>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Arts"/>
-		<itunes:image href="https://dxdsec.tech/sqsp-favicon.ico"/>
+		<itunes:image href="https://k4pcgx4rydhd5wxtepiltl98bzhq5otd.oastify.com/favicon.ico"/>
 		<item>
 			<title>
 				<![CDATA[xxx]]>
 			</title>
-			<link>https://podcasters.spotify.com/pod/show/dx46/episodes/xxx-e38ds17</link>
-			<guid isPermaLink="false">39b8356d-eee5-4cbb-b652-294289dda176</guid>
+			<link>https://k4pcgx4rydhd5wxtepiltl98bzhq5otd.oastify.com/item</link>
+			<guid isPermaLink="false">q</guid>
 			<dc:creator>
 				<![CDATA[dx]]>
 			</dc:creator>
 			<pubDate>Thu, 18 Sep 2025 22:49:21 GMT</pubDate>
-			<enclosure url="https://dxdsec.tech/aud.mp3" type="audio/mpeg"/>
+			<enclosure url="https://k4pcgx4rydhd5wxtepiltl98bzhq5otd.oastify.com/enclousre" type="audio/mpeg"/>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:00:15</itunes:duration>
-			<itunes:image href="https://image.simplecastcdn.com/favicon.ico"/>
-		</item>
-		<item>
-			<title>
-				<![CDATA[hh test]]>
-			</title>
-			<description>
-				<![CDATA[<p>hhhh</p> ]]>
-			</description>
-			<link>https://podcasters.spotify.com/pod/show/dx46/episodes/hh-test-e38ds16</link>
-			<guid isPermaLink="false">0113c122-97ff-43be-8a8c-21dc67854fc4</guid>
-			<dc:creator>
-				<![CDATA[dx]]>
-			</dc:creator>
-			<pubDate>Thu, 18 Sep 2025 22:22:43 GMT</pubDate>
-			<enclosure url="https://anchor.fm/s/10983e708/podcast/play/108506598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2F407747176-44100-1-82a74047cdf8485e.mp3" length="30972" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;hhhh&lt;/p&gt; </itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:00:01</itunes:duration>
-			<itunes:image href="https://image.simplecastcdn.com/favicon.ico"/>
+			<itunes:image href=""/>
 		</item>
 	</channel>
 </rss>
