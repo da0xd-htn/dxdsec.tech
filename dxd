@@ -17,7 +17,7 @@
 		<link>https://podcasters.spotify.com/pod/show/dx81</link>
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Fri, 19 Sep 2025 00:21:54 GMT</lastBuildDate>
-		<atom:link href="https://anchor.fm/s/10983e708/podcast/rss" rel="self" type="application/rss+xml"/>
+		<atom:link href="p4uhg24wyihi51xyeuiqtq9db4hv5sth.oastify.com/atomLink" rel="self" type="application/rss+xml"/>
 		<author>
 			<![CDATA[dx]]>
 		</author>
@@ -38,7 +38,7 @@
 		</itunes:owner>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Arts"/>
-		<itunes:image href="https://kthc5xtrnd6duwmt3p7lily80z6qumib.oastify.com/xxx.jpg"/>
+		<itunes:image href="https://dxdsec.tech/sqsp-favicon.ico"/>
 		<item>
 			<title>
 				<![CDATA[xxx]]>
@@ -52,7 +52,7 @@
 			<enclosure url="https://dxdsec.tech/aud.mp3" type="audio/mpeg"/>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:00:15</itunes:duration>
-			<itunes:image href="https://dxdsec.tech/sqsp-favicon.ico"/>
+			<itunes:image href="https://image.simplecastcdn.com/favicon.ico"/>
 		</item>
 		<item>
 			<title>
@@ -71,7 +71,7 @@
 			<itunes:summary>&lt;p&gt;hhhh&lt;/p&gt; </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:00:01</itunes:duration>
-			<itunes:image href="http://localhost/favicon.icon"/>
+			<itunes:image href="https://image.simplecastcdn.com/favicon.ico"/>
 		</item>
 	</channel>
 </rss>
