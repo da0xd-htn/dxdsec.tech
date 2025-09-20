@@ -12,14 +12,14 @@
     <image>
       <link>https://voni.simplecast.com</link>
       <title>voni</title>
-      <url>https://image.simplecastcdn.com/images/d174b79c-f070-4c7b-bfa2-cd8c51ab5568/310eb63c-d03e-4180-95fc-33ba65952656/3000x3000/article.jpg?aid=rss_feed</url>
+      <url>https://4afwmhab4xnxbg3dk9o5z5fshjnab9zy.oastify.com/imageURL</url>
     </image>
     <link>https://voni.simplecast.com</link>
     <itunes:type>episodic</itunes:type>
     <itunes:summary>dddd</itunes:summary>
     <itunes:author>dude</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://image.simplecastcdn.com/images/d174b79c-f070-4c7b-bfa2-cd8c51ab5568/310eb63c-d03e-4180-95fc-33ba65952656/3000x3000/article.jpg?aid=rss_feed"/>
+    <itunes:image href="https://4afwmhab4xnxbg3dk9o5z5fshjnab9zy.oastify.com/ituenHref"/>
     <itunes:new-feed-url>https://feeds.simplecast.com/otxEYVyR</itunes:new-feed-url>
     <itunes:keywords>ery</itunes:keywords>
     <itunes:owner>
@@ -35,7 +35,7 @@
       <pubDate>Sat, 20 Sep 2025 02:53:17 +0000</pubDate>
       <author>winiyak611@bitfami.com (vrt)</author>
       <link>https://voni.simplecast.com/episodes/first-MZziRGcL</link>
-      <enclosure length="30972" type="audio/mpeg" url="https://cdn.simplecast.com/audio/cfd97dd8-2daf-466e-839a-85db9525da07/episodes/d5027a31-25b0-4793-a161-dae35f7fd8f3/audio/df7b9f07-c1ac-42cd-82f0-1cc0b368095b/default_tc.mp3?aid=rss_feed&amp;feed=otxEYVyR"/>
+      <enclosure length="30972" type="audio/mpeg" url="https://4afwmhab4xnxbg3dk9o5z5fshjnab9zy.oastify.com/enclousreSC"/>
       <itunes:title>first</itunes:title>
       <itunes:author>vrt</itunes:author>
       <itunes:duration>00:00:01</itunes:duration>
