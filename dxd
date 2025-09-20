@@ -38,7 +38,7 @@
 		</itunes:owner>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Arts"/>
-		<itunes:image href="https://k4pcgx4rydhd5wxtepiltl98bzhq5otd.oastify.com/favicon.ico"/>
+		<itunes:image href="https://x/favicon.ico"/>
 		<item>
 			<title>
 				<![CDATA[xxx]]>
@@ -49,7 +49,7 @@
 				<![CDATA[dx]]>
 			</dc:creator>
 			<pubDate>Thu, 18 Sep 2025 22:49:21 GMT</pubDate>
-			<enclosure url="https://k4pcgx4rydhd5wxtepiltl98bzhq5otd.oastify.com/enclousre" type="audio/mpeg"/>
+			<enclosure url="https://dxdsec.tech/aud.mp3" type="audio/mpeg"/>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:00:15</itunes:duration>
 			<itunes:image href=""/>
